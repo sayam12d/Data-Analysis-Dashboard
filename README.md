@@ -75,9 +75,12 @@ Physiotherapy (134 patients)
 A significant number (2,514 patients) did not require a specialist referral, indicating a high volume of general medical consultations.
 
 ## Conclusions
--Operational Efficiency Needs Improvement: With 42% of patients facing delays, optimizing staff allocation and scheduling may improve service timeliness.
+-Operational Efficiency Needs Improvement: With 42% of patients facing delays, optimizing staff allocation and scheduling may improve service timeliness. 
+
 -Young Adults Seek More Medical Attention: The 15-29 age group is the most frequent visitor, possibly due to lifestyle-related concerns.
+
 -Patient Satisfaction Can Be Enhanced: A score of 5.30 suggests mixed patient experiences, and addressing bottlenecks in wait times could improve this.
+
 -General Practice Handles the Most Cases: Efforts should be made to optimize the workflow in this department to manage high patient volumes.
 
 

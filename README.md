@@ -44,7 +44,8 @@ It includes:
 -Dashboard UI Design with Excel visual elements
 
 ## Dashboard
-![Dashboard](https://github.com/user-attachments/assets/0de87ded-b830-4dc7-93e4-282f485cf80c)
+![Dashboard](https://github.com/user-attachments/assets/3a3a11e4-63fc-4215-b9b8-7bfed7d8d049)
+
 
 
 

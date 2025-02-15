@@ -1,9 +1,9 @@
 # Data-Analysis-Dashboard
 
-##📌 Objective
+## Objective
 This project aims to analyze data and visualize key insights using an Excel Dashboard. The report provides meaningful insights, key performance indicators (KPIs), and interactive charts to support data-driven decision-making.
 
-##DESCRIPTION
+## DESCRIPTION
 This repository contains an Excel-based dashboard designed for data analysis.
 It includes: 
 
@@ -16,7 +16,7 @@ It includes:
 -Dashboard visualization for clear and effective insights
 
 
-##📊 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 -Patient Admission Status: Displays the number of patients admitted vs. not admitted.
 
@@ -35,7 +35,7 @@ It includes:
 -Average Wait Time: Calculates the average time patients wait to see a medical professional. Uses an area sparkline to track changes and highlight days requiring improvements.
 
 
-##🛠 Tools & Technologies Used
+## Tools & Technologies Used
 
 -Microsoft Excel (Power Query, Pivot Tables, Charts, Conditional Formatting)
 

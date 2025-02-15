@@ -46,6 +46,40 @@ It includes:
 ## Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/3a3a11e4-63fc-4215-b9b8-7bfed7d8d049)
 
+## Project Insights
+-Total Patients & Admissions: 
+The dashboard reports 479 patients for the selected month.
+50.52% of patients were not admitted, while 49.48% were admitted.
+
+-Wait Time & Satisfaction:
+The average wait time for patients was 34.90 minutes.
+The patient satisfaction score was 5.30, indicating room for service improvements.
+
+-Admission Timeliness:
+58% of patients were seen on time, while 42% experienced delays.
+
+-Demographics & Age Distribution:
+The largest age group seeking medical attention was 15-29 years (102 patients).
+Younger children (0-4 years) had the lowest patient count (29 patients).
+
+-Gender Ratio:
+51% of patients were female, while 49% were male.
+
+-Department Referrals:
+The top three most visited departments were:
+General Practice (874 patients)
+Orthopedics (463 patients)
+Physiotherapy (134 patients)
+
+-Patients Without a Specific Department:
+A significant number (2,514 patients) did not require a specialist referral, indicating a high volume of general medical consultations.
+
+## Conclusions
+-Operational Efficiency Needs Improvement: With 42% of patients facing delays, optimizing staff allocation and scheduling may improve service timeliness.
+-Young Adults Seek More Medical Attention: The 15-29 age group is the most frequent visitor, possibly due to lifestyle-related concerns.
+-Patient Satisfaction Can Be Enhanced: A score of 5.30 suggests mixed patient experiences, and addressing bottlenecks in wait times could improve this.
+-General Practice Handles the Most Cases: Efforts should be made to optimize the workflow in this department to manage high patient volumes.
+
 
 
 
